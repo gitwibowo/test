@@ -1,5 +1,3 @@
-com\test\maven\maven_test\ModuleRepository.class
+com\test\maven\maven_test\notFoundException.class
 com\test\maven\maven_test\StartApplication.class
 com\test\maven\maven_test\App.class
-com\test\maven\maven_test\ModuleController.class
-com\test\maven\maven_test\Module.class
